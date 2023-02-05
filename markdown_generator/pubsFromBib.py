@@ -35,7 +35,7 @@ publist = {
         
     },
     "journal":{
-        "file": "pubs.bib",
+        "file": "McNaughton_Publications.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
