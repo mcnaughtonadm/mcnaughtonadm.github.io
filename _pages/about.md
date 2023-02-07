@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Andrew McNaughton and I am a Post-Bachelor Research Associate at [Pacific Northwest National Laboratory](https://www.pnnl.gov). I work in the [Computational Biology Group](https://www.pnnl.gov/computational-biology) in the Modeling & Simulation Group where my primary research focus is in implementing machine learning methods for use in drug discovery and small molecule design.
+My name is Andrew McNaughton and I am a Computational Scientist at [Pacific Northwest National Laboratory](https://www.pnnl.gov). I am part of the Modeling and Simulation Team within the [Computational Biology Group](https://www.pnnl.gov/computational-biology). My research centers around applied mathematics and machine learning approaches to modeling biological systems.
 
-I have a B.S in Astronomy & Astrophysics from [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu) where I conducted undergraduate research on computational modeling of stellar properties. My current research interests are in computational science and integrating machine learning methods to tackle current practical problems in biology, chemistry, and physics.
+I have a B.S in Astronomy & Astrophysics from [Embry-Riddle Aeronautical University](https://daytonabeach.erau.edu) where I conducted undergraduate research on computational modeling of stellar properties. 
+
+My current research interests are in computational science and integrating machine learning methods to tackle current practical problems in biology, chemistry, and physics.

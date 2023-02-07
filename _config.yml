@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrew McNaughton"
   avatar           : "McNaughton_WEB-1.jpg"
-  bio              : "Post-Bachelor Research Associate"
+  bio              : "Computational Scientist"
   location         : "Richland, WA"
   employer         : "Pacific Northwest National Laboratory"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mcnaughtonadm/"
   orcid            : "http://orcid.org/0000-0002-4146-7921"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mcnaughtonadm"
+  twitter          :
   vine             :
   weibo            :
   xing             :
